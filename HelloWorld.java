@@ -4,6 +4,6 @@
  */
 class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Salut Andrei!"); // Display the string.
+        System.out.println("Hello Andrei!"); // Display the string.
     }
 }
